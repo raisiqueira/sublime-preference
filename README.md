@@ -1,3 +1,3 @@
 # sublime-preference
 
-Minhas Prefências e Extensões do Sublime text 2.
+Minhas Preferências e Extensões do Sublime text 2.
